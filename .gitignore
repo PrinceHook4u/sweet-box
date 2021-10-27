@@ -1,0 +1,5 @@
+
+# Comments are basically ignored by git
+
+*.js
+/samp.txt
